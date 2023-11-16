@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://64.media.tumblr.com/8219702ae9ac5e20977d0b42e3f2bcdc/80ef5dccf742e0f4-9e/s500x750/730de512b08ff3a614fc918c3def4ca0cd087ec3.gifv" width="80"/>
+  <img src="https://64.media.tumblr.com/8219702ae9ac5e20977d0b42e3f2bcdc/80ef5dccf742e0f4-9e/s500x750/730de512b08ff3a614fc918c3def4ca0cd087ec3.gifv" width="100"/>
 </div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="90"/>&nbsp;
