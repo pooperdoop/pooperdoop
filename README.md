@@ -7,8 +7,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
-  <p></p>
+<div align="center">
 
   ![](https://komarev.com/ghpvc/?username=pooperdoop&&color=033E3E&style=flat-square&abbreviated=true)
 
