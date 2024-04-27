@@ -12,3 +12,9 @@
   ![](https://komarev.com/ghpvc/?username=pooperdoop&&color=033E3E&style=flat-square&abbreviated=true)
 
 </div>
+
+<div align="center">
+
+  <img src="https://github.com/pooperdoop/pooperdoop/blob/main/background-2-ezgif.com-crop.gif" width="400"/>
+
+</div>
