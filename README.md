@@ -48,7 +48,7 @@
   <tr>
     <td style="border-collapse: collapse;>
       <div align="left">
-         <h3>A Viator's Odyssey</h3> <img src="./assets/hello-dark.gif#gh-light-mode-only" align="right" height="220" width="210" />
+         <h3>About Me</h3> <img src="./assets/hello-dark.gif#gh-light-mode-only" align="right" height="220" width="210" />
         <br>
         💀 3rd Year College Student<br><br>🌙 Nightowl<br><br>👾 Gamer<br><br>🤖 Computer Science Student<br><br>💪 Building
       </div>
