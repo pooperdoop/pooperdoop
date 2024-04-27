@@ -42,7 +42,7 @@
 
 </div>
 
-<table align="center" style="border-collapse: collapse;">
+<table align="center" style="border-style: double;">
   <tr>
     <td style="border-collapse: collapse;>
       <div align="left">
