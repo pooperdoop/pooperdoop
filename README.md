@@ -2,17 +2,6 @@
    <img src="https://github.com/pooperdoop/pooperdoop/blob/main/angry-screaming.gif" width="400"/>
 </div>
 
-
-
-
-
-
-<div align="center">
-
-  <img src="https://github.com/pooperdoop/pooperdoop/blob/main/background-2-ezgif.com-crop.gif" width="800"/>
-
-</div>
-
 <br>
 <br>
 
@@ -44,11 +33,17 @@
   
 </div>
 
+<div align="center">
+
+  <img src="https://github.com/pooperdoop/pooperdoop/blob/main/background-2-ezgif.com-crop.gif" width="1000"/>
+
+</div>
+
 <table align="center" style="border-collapse: collapse;">
   <tr>
     <td style="border-collapse: collapse;>
       <div align="left">
-         <h3>About Me</h3> <img src="./assets/hello-dark.gif#gh-light-mode-only" align="right" height="220" width="210" />
+         <h3>🙋‍♂️ About Me</h3> <img src="./assets/hello-dark.gif#gh-light-mode-only" align="right" height="220" width="210" />
         <br>
         💀 3rd Year College Student<br><br>🌙 Nightowl<br><br>👾 Gamer<br><br>🤖 Computer Science Student<br><br>💪 Building
       </div>
