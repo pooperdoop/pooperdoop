@@ -45,12 +45,6 @@
   
 </div>
 
-<div align="center">
-
-  <img src="https://github.com/pooperdoop/pooperdoop/blob/main/background-2-ezgif.com-crop.gif" width="1000"/>
-
-</div>
-
 <table align="center" style="border-style: double;">
   <tr>
     <td style="border-collapse: collapse;>
