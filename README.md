@@ -50,7 +50,7 @@
     </td>
     <td style=""border-collapse: collapse;">
       <div align="right">
-        <img src="https://github.com/pooperdoop/pooperdoop/blob/main/dbs4gmg-75821f0c-b1f1-4b0c-b321-6c4e92551a6c-ezgif.com-resize.gif" width="400"/>
+        <img src="https://github.com/pooperdoop/pooperdoop/blob/main/angry-screaming.gif" width="400"/>
       </div>
     </td>
   </tr>
