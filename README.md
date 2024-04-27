@@ -31,6 +31,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="blender logo"  />
+  <img width="12" />
 </div>
 
 <br>
@@ -38,6 +42,21 @@
 
   ![](https://komarev.com/ghpvc/?username=pooperdoop&&color=033E3E&style=flat-square&abbreviated=true)
   
-
-
 </div>
+
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td style="border-collapse: collapse;>
+      <div align="left">
+         <h3>A Viator's Odyssey</h3> <img src="./assets/hello-dark.gif#gh-light-mode-only" align="right" height="220" width="210" />
+        <br>
+        💕 Fell in love with Japan, Anime, Game Dev and Web Dev<br><br>🌙 Fun Fact: still haven't played some of my purchased Steam games<br><br>🌍 Exploring the Wonders of Web Development and Game Creation<br><br>🕵️ In a quest of treading a Computer Science Degree<br><br>💟 Loves Creating Open World Game Environments
+      </div>
+    </td>
+    <td style=""border-collapse: collapse;">
+      <div align="right">
+        <img src="https://github.com/Kaeino/Kaeino/blob/main/andrius.gif" width="400"/>
+      </div>
+    </td>
+  </tr>
+</table>
