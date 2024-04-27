@@ -15,6 +15,6 @@
 
 <div align="center">
 
-  <img src="https://github.com/pooperdoop/pooperdoop/blob/main/background-2-ezgif.com-crop.gif" width="1000"/>
+  <img src="https://github.com/pooperdoop/pooperdoop/blob/main/background-2-ezgif.com-crop.gif" width="800"/>
 
 </div>
