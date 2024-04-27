@@ -56,13 +56,13 @@
   </tr>
 </table>
 
+<h2 align="center"></h2> 
+
 <div align="center">
 
   ![](https://komarev.com/ghpvc/?username=pooperdoop&&color=033E3E&style=flat-square&abbreviated=true)
   
 </div>
-
-<div align="center">
 
 <p align="center">
   <a href="https://github.com/pooperdoop?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-Repositories%20-6600cc?style=for-the-badge&logo=koding&logoColor=white"/></a>
