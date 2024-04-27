@@ -50,7 +50,7 @@
       <div align="left">
          <h3>A Viator's Odyssey</h3> <img src="./assets/hello-dark.gif#gh-light-mode-only" align="right" height="220" width="210" />
         <br>
-        💕 Fell in love with Japan, Anime, Game Dev and Web Dev<br><br>🌙 Fun Fact: still haven't played some of my purchased Steam games<br><br>🌍 Exploring the Wonders of Web Development and Game Creation<br><br>🕵️ In a quest of treading a Computer Science Degree<br><br>💟 Loves Creating Open World Game Environments
+        💀 3rd Year College Student<br><br>🌙 Nightowl<br><br>👾 Gamer<br><br>🤖 Computer Science Student<br><br>💪 Building
       </div>
     </td>
     <td style=""border-collapse: collapse;">
