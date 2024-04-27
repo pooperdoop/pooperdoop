@@ -1,5 +1,5 @@
-<div id="header" align="center">
-   <img src="https://github.com/pooperdoop/pooperdoop/blob/main/angry-screaming.gif" width="400"/>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kaeino&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
 <br>
