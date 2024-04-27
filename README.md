@@ -7,12 +7,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-  <a href="https://www.twitch.tv/pooperdoop" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="twitch logo"  />
-  </a>
 
   <p></p>
 
-  ![](https://komarev.com/ghpvc/?username=kaeino&&color=033E3E&style=flat-square&abbreviated=true)
+  ![](https://komarev.com/ghpvc/?username=pooperdoop&&color=033E3E&style=flat-square&abbreviated=true)
 
 </div>
