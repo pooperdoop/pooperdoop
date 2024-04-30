@@ -71,4 +71,4 @@
 <h2 align="center"></h2> 
 
 <p align="center">
-[![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=Rishit-dagli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Rishit-dagli)
+https://github.com/anuraghazra/github-readme-stats
