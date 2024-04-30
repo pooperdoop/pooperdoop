@@ -73,7 +73,7 @@
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=pooperdoop&show_icons=true&theme=vision-friendly-dark"
-    media="(prefers-color-scheme: vision-friendly-dark)"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=pooperdoop&show_icons=true"
