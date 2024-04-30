@@ -71,4 +71,4 @@
 <h2 align="center"></h2> 
 
 <p align="center">
-<a ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooperdoop&show_icons=true&theme=radical)></a><a>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooperdoop&show_icons=true&theme=radical)
